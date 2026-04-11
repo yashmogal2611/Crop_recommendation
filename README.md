@@ -132,10 +132,8 @@ crop-rotation-recommender/
 
 ## 👨‍💻 Author
 
-**Your Name**
-- LinkedIn: linkedin.com/in/yourname
-- GitHub: github.com/yourname
-- Email: youremail@gmail.com
+**YASH AMAR MOGAL**
+- Email: yashmogal2611@gmail.com
 
 ---
 
@@ -143,7 +141,6 @@ crop-rotation-recommender/
 
 - Dataset by Atharva Ingle on Kaggle
 - Inspired by Jacob AI's regenerative agriculture platform
-- Built as part of Agriculture AI project portfolio
 ```
 
 ---
