@@ -130,25 +130,7 @@ crop-rotation-recommender/
 
 ---
 
-## 👨‍💻 Author
 
-**YASH AMAR MOGAL**
-- Email: yashmogal2611@gmail.com
-
----
-
-## 🙏 Acknowledgements
-
-- Dataset by Atharva Ingle on Kaggle
-- Inspired by Jacob AI's regenerative agriculture platform
-```
-
----
-
-Press **Ctrl + S** to save.
-
-Now your folder looks like:
-```
 CROP_RECOMMENDATION/
 ├── app.py
 ├── crop_model.pkl
